@@ -26,7 +26,7 @@ export function Footer() {
         
         <div className="mt-6 pt-6 border-t border-border">
           <p className="text-xs text-muted-foreground text-center max-w-2xl mx-auto">
-            <strong>Medical Disclaimer:</strong> DermAI is an educational tool and does not provide medical diagnoses. 
+            <strong>Medical Disclaimer:</strong> SkinSpot is an educational tool and does not provide medical diagnoses. 
             The analysis provided is for informational purposes only and should not replace professional medical advice. 
             Always consult a qualified healthcare provider for skin concerns.
           </p>

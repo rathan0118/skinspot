@@ -9,7 +9,7 @@ export function Header() {
             <Shield className="w-5 h-5 text-primary-foreground" />
           </div>
           <span className="text-xl font-display font-semibold text-foreground">
-            DermAI
+            SkinSpot
           </span>
         </div>
         <div className="flex items-center gap-2 px-3 py-1.5 bg-secondary rounded-full">
